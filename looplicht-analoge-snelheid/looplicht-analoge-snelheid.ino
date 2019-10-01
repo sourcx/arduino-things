@@ -1,3 +1,7 @@
+// Nodig:
+// Sluit 11 LEDs aan op 2-12
+// Sluit je potentionmeter aan op A4
+
 const int NR_PINS = 11;
 const int ledPins[NR_PINS] = {2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12};
 const int MIN_DELAY = 30; // ms
